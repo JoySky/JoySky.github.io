@@ -1,9 +1,18 @@
 ---
 layout: page
-title: "Tags"
-description: "博客标签库"  
-header-img: "img/bay.jpg"  
+title: "分类"
+description: "想找到我挖的坑吗？"  
+header-img: "img/semantic.jpg"  
 ---
+
+##开始追踪前端猫挖的坑
+
+1. 选一个你喜欢的坑
+2. 点击它
+3. 你已经找到了
+4. 返回顶部再来一遍吧
+
+##有这些坑可追踪
 
 
 <div id='tag_cloud'>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Archive"
+title: "全部"
 description: "四脚猫的功夫之路"
 header-img: "img/orange.jpg"
 ---
