@@ -11,6 +11,9 @@ layout: default
         background-color:{{ page.color }}
         {% endif %}
     }
+    a{
+    	{% if page.color %}color:{{ page.color }}{% endif %}
+    }
 </style>
 <header class="intro-header">
     <div class="container">

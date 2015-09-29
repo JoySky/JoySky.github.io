@@ -11,6 +11,9 @@ layout: default
         background-color:{{ page.color }}
         {% endif %}
     }
+    a{
+        {% if page.color %}color:{{ page.color }}{% endif %}
+    }
     /* anchorjs CSS */
     /* place left on bigger screen */
     @media all and (min-width: 800px) {
