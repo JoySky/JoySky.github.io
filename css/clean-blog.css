@@ -530,6 +530,10 @@ body {
   font-weight: bold;
 }
 
+.post-container{
+  overflow: hidden;
+}
+
 /*  Back Top Button  */
 #back-top {
   position: fixed;
