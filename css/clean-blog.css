@@ -534,12 +534,12 @@ body {
 #back-top {
   position: fixed;
   bottom: 3em;
-  right: 10%;
+  right: 17%;
 }
 #back-top a {
   width: 54px;
   height: 54px;
-  display: block;
+  display: none;
   background: #ddd url(/img/Back-Top_Arrow.png) no-repeat center center;
   background-color: #aaa;
   -webkit-transition: 1s;
