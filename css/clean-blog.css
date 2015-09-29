@@ -530,6 +530,10 @@ body {
   font-weight: bold;
 }
 
+#ds-share #ds-reset .ds-share-icons .ds-share-icons-inner{
+  width: 416px;
+}
+
 /*  Back Top Button  */
 #back-top {
   position: fixed;
