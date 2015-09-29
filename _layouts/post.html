@@ -5,7 +5,11 @@ layout: default
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
-        background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
+        {% if page.header-img %}
+        background-image: url('{{ site.baseurl }}/{{ page.header-img }}')
+        {% else if page.color %}
+        background-color:{{ page.color }}
+        {% endif %}
     }
 </style>
 <header class="intro-header" >
@@ -84,8 +88,6 @@ layout: default
                 <hr>
                 </div>
                 <!-- Duoshuo Share end-->
-
-
                 <!-- 多说评论框 start -->
                 <div class="comment">
                     <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
@@ -95,9 +97,6 @@ layout: default
         </div>
     </div>
 </article>
-
-
-
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"luoway"};
