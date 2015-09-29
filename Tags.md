@@ -2,7 +2,7 @@
 layout: page
 title: "分类"
 description: "想找到我挖的坑吗？"  
-header-img: "img/semantic.jpg"  
+color: "#11B5AE"
 ---
 
 ##开始追踪前端猫挖的坑

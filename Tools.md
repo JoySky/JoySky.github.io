@@ -2,6 +2,7 @@
 layout: page
 title: "口袋"
 description: "我的次元口袋里装着来自21世纪的……"
+color: "#14546D"
 ---
 
 
