@@ -534,7 +534,8 @@ body {
 #back-top {
   position: fixed;
   bottom: 3em;
-  right: 10%;
+  right: 17%;
+  display: none;
 }
 #back-top a {
   width: 54px;
