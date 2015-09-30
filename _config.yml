@@ -1,15 +1,15 @@
 # Site settings
-title: 前端猫的领土
+title: 程序猿的领土
 tagline: "喵？"  
-description: "luoway | 前端猫的领土，藏着什么"  
+description: "JoySky | 程序猿的领土，藏着什么"  
 baseurl: ""
-url: "http://luoway.space"  
+url: "http://haoinfo.net"  
 
 # About/contact
 owner: 
-  name: " luoway"
-  email: luoway@outlook.com
-  bio: "前端猫的领土，藏着什么"
+  name: " JoySky"
+  email: joysky@outlook.com
+  bio: "程序猿的领土，藏着什么"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -17,9 +17,9 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: luoway
+github_username: JoySky
 facebook_username: 
-weibo_username:  luowayw
+weibo_username:  Coder君
 zhihu_username: 
 
 # Build settings  
@@ -43,14 +43,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "luoway"
+      author: "JoySky"
       color: "#395692"
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : luoway
+    short_name : JoySky
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
