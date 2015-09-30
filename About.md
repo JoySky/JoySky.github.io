@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "JoySky"
+title: "关于"
 description: "程序猿一枚 "
 color: "#A9BE44"
 ---
