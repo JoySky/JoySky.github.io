@@ -1,10 +1,7 @@
 ##说明
 
 此博客 fork 自 [azeril.me](http://azeril.me)，感谢。
-##前端猫的领土
+##JoySky
 
-我是luoway，博客：[http://luoway.space](http://luoway.space)
+我是Keith Wu，博客：[JoySky](http://haoinfo.net)
 
-现在研习 **前端工程**。
-
-**在程序和美的领域耕耘，为了阻碍世界熵的增加**
