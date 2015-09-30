@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "全部"
-description: "四脚猫的功夫之路"
+description: "三脚猫的功夫之路"
 color: "#E58172"
 ---
 
